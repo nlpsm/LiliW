@@ -18,7 +18,7 @@ NLPSM is an innovative project designed to enable non-technical users to interac
 
 1. **Clone the repository**:
 
-   git clone https://github.com/NLPSM/NLPSM.git
+   git clone https://github.com/nlpsm/lili.git
    
 2. **Navigate to the project directory**:
 
