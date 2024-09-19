@@ -1,3 +1,4 @@
+⚠️ WARNING: This experimental project is under rapid development and lacks basic safeguards. 
 LiLiW (Windows) # NLPSM - Natural Language Processing System Manager
 
 ## Overview
