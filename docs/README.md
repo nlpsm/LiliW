@@ -1,4 +1,4 @@
-# NLPSM - Natural Language Processing System Manager
+LiLiW (Windows) # NLPSM - Natural Language Processing System Manager
 
 ## Overview
 NLPSM is an innovative project designed to enable non-technical users to interact with their computer systems through natural language commands, leveraging OpenAI's GPT technology. This application provides a user-friendly API setup using FastAPI to execute system-level commands securely.
